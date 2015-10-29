@@ -1,0 +1,19 @@
+{
+  "name": "tdd-thinkful",
+  "version": "1.0.0",
+  "description": "Karma Exercise",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Karma",
+    "Javascript",
+    "Jasmine"
+  ],
+  "author": "Michael Tran",
+  "license": "ISC",
+  "devDependencies": {
+    "karma-firefox-launcher": "^0.1.6"
+  }
+}
